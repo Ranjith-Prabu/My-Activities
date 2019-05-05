@@ -1,2 +1,1 @@
-# Task1
-I've been doing my explorations for long years. But now in to the phase of GitHub Project explorations.
+# I'm a Data Science enthusiast & a practitioner. I'm exploring the Data Science concepts & implementing it in projects. I'm also adding my projects in GitHub for further explorations.
